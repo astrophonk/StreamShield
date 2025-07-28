@@ -1,1 +1,0 @@
-python obs_sneeze_censor.py --mic-source-name "Mic/Aux"  --cat-source-name "SneezeCat"  --cat-folder "C:/Users/Owner/Desktop/AstroPhonk/Cat Sneezing OBS Anti Bad Word Plugin/cats"  --obs-password "malta8909A!!A!!" --model "./vosk-model-small-en-us-0.15"
